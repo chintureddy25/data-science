@@ -1,5 +1,5 @@
 # Data-science
 To predict the prices of house
 
-##Technologies used
+## Technologies used
 Python
